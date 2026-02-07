@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/Curr-culum_Vitae_Esteban/",
+  base: "/Curriculum_Vitae_Esteban/",
 })
